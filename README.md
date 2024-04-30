@@ -1,6 +1,6 @@
 # Generating function solution and inference for nuclear-cytoplasmic mRNA counts in a stochastic gene-expression model
 
-This repository contains the Mathematica and Julia codes and data for the paper: [Analytical joint distribution of nuclear and cytoplasmic mRNA levels in stochastic models of gene expression and its use for rapid parameter inference](xx), where the following stochastic gene-expression model is considered
+This repository contains the Mathematica and Julia codes and data for the paper: [Joint distribution of nuclear and cytoplasmic mRNA levels in stochastic models of gene expression: analytical results and parameter inference](xx), where the following stochastic gene-expression model is considered
 
 ​                                          $$G\xrightleftharpoons[\sigma_\text{on}]{\sigma_\text{off}}G^*,~~~~~~G\xrightarrow{\rho}G+N,~~~~~~N\xRightarrow{\tau}M,~~~~~~M\xrightarrow{d}\varnothing.$$
 
